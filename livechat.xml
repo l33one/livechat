@@ -1,5 +1,5 @@
 <root>
-   <name>livechat</name>
+   <name>Livechat</name>
    <key>livechat</key>
    <!-- stable, beta, development, alpha, ... -->
    <state>stable</state>
