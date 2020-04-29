@@ -1,5 +1,5 @@
 <root>
-   <name>Livechat_rc</name>
+   <name>Livechat R.C</name>
    <key>livechat</key>
    <!-- stable, beta, development, alpha, ... -->
    <state>stable</state>
