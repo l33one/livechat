@@ -1,6 +1,13 @@
-# livechat
+# Livechat
 Plugin para implementar livechat Rocket.chat no GLPI
 
+# Instalação
+1. Faça o Download do livechat
+2. Descompacte dentro da pasta plugins do seu GLPI
+3. Renomeie a pasta para "livechat" (sem as aspas).
+4. Nas configurações do GLPI com um usuário Administrador, instale e abilite o plugin.
+
+# Configuração
 Para adicionar seu livechat no GLPI siga as instruções abaixo:
 
 1. Acesse o diretorio livechat, dentro de plugins no seu servidor GLPI
