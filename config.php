@@ -56,7 +56,7 @@ if ($plugin->isActivated("livechat")){
 
     echo "<div style='text-align: left;'><p><strong>Para adicionar seu livechat no GLPI siga as instruções abaixo:</strong></p>
     <p>1. Acesse o diretorio <code>livechat</code>, dentro de <code>plugins</code> no seu servidor GLPI <br>
-    2. Abra o arquivo livechat/livechat.js <br>
+    2. Abra o arquivo livechat/example.js <br>
     3. Altere os dados de IP e porta, conforme o seu servidor Rocket.chat <br>
     4. Se estiver usando outro serviço de livechat, substitua todo o seu conteudo pelo conteúdo do script do seu servidor<br>
     5. Por fim, clique no botão <code>habilitar</code></p></div>";
