@@ -3,7 +3,7 @@
    <key>livechat</key>
    <!-- stable, beta, development, alpha, ... -->
    <state>stable</state>
-   <logo>https://raw.githubusercontent.com/l33one/livechat/master/pics/logo.png</logo>
+   <logo>https://raw.githubusercontent.com/l33one/livechat/master/livechatLogo.png</logo>
    <description>
       <short>
          <!-- Add as many lang tag you want -->
